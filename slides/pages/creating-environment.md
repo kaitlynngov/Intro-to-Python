@@ -76,6 +76,7 @@ Why do we need environments?
 
 </v-clicks>
 
+
 ---
 
 # Creating a Python Environment
@@ -90,7 +91,6 @@ What is an environment?
 - You can switch between them anytime — like having multiple “toolboxes”.
 
 </v-clicks>
-
 
 ---
 
@@ -123,7 +123,7 @@ Steps to create a basic environment
 ```
 conda create -n intro-to-python python=3.11
 ```
-    
+
 </v-click>
 
 
@@ -133,7 +133,8 @@ conda create -n intro-to-python python=3.11
 
 ```
 conda activate intro-to-python
- ```
+```
+
 </v-click>
 
 <v-click>
@@ -150,3 +151,5 @@ and launch
 ```
 spyder
 ```
+
+</v-click>
